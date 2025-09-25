@@ -1,0 +1,2 @@
+-- Copyright (C) 2025 endofcircuit
+-- Licensed under the GNU GPL v3. See LICENSE file for details.
